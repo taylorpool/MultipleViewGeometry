@@ -1,0 +1,6 @@
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
